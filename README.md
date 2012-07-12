@@ -1,4 +1,4 @@
 bash-scripts
 ============
 
-Bash scripts I use on my computers
+Bash scripts I use on my computerz.
